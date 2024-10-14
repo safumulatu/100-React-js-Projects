@@ -12,17 +12,3 @@ Welcome to the **React.js Projects Bonanza**, where sleep is overrated and code 
 
 ---
 
-## 01 - Counter 🔢
-
-### Description:
-Ever wanted to count your regrets in life? Or maybe just keep track of how many times you’ve clicked a button in a React app? Well, look no further! This simple counter app will help you count up (and down, if you’re feeling fancy) all day long.
-
-### Features:
-- Click to increase or decrease the count.
-- Feel like a React state management pro after 10 clicks.
-- Best stress reliever – just click and count to 100 or more!
-
-### How to run it:
-```bash
-npm install
-npm start
